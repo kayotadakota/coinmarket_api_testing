@@ -1,7 +1,7 @@
 ## Getting started
 To use coinmarket API you need to have API key. Follow [this guide](https://coinmarketcap.com/api/documentation/v1/#) to get it.
 When do you have the key you can do following:
-- Change the value of 'X-CMC_PRO_API_KEY' key manually for all files that contain 'headers'
+- Change the value of the 'X-CMC_PRO_API_KEY' key manually for all files that contain 'headers'
 - Set environment variable
 
 Set environment variable in **Windows**:
