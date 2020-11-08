@@ -8,7 +8,7 @@ Set environment variable in **Windows**:
 - Open System Properties. Just type 'env' in the windows search tab and hit enter
 - Open Environment Variables tab
 - In User Variables hit New
-- Name it whatever you want
+- Name it 'coinmarket' unless you want to change the name in python files
 - Put your API key into the value box and hit 'ok'
 - Ensure you restarted command prompt before testing
 
